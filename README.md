@@ -18,7 +18,9 @@ Customer Data Storage: Secure storage of customer information and reservation de
 
 Scalable Backend: Node.js ensures a scalable and efficient server-side architecture.
 
+
 Tech Stack
+
 
 Frontend
 
